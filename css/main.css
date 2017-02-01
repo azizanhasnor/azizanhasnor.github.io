@@ -1,0 +1,26 @@
+.navbar-inverse{
+  background-color:#287bbc !important;}
+
+.navbar-inverse .navbar-nav>li>a{
+  color:#fff !important;  
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+  background-color:#993300 !important;
+}
+
+.navbar-inverse .navbar-brand{
+  color:#fff !important;
+}
+
+.footer{
+  color:#fff;
+  background-color:#287bbc !important;
+}
+
+.portrait{
+  border-radius:5px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #287bbc;
+}
